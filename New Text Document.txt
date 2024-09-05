@@ -1,0 +1,4 @@
+The main idea behind that model is: 
+=> make a simple model(without cut from plain) with edit model> extrude and loop cut and surface manipulation 
+=> then use object>viewport display>Display As "Bounds"
+=> then use modifiers> Boolean and solidify(to make thicken Boolean process)
